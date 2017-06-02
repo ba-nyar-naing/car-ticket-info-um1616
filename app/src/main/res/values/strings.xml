@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Car Ticket Info</string>
+
+    <string name="drawer_header_text">Car Ticket Info</string>
+    <string name="choose_fragment_departure">Departure City</string>
+    <string name="choose_fragment_arrival">Arrival City</string>
+    <string name="choose_fragment_go">Search routes</string>
+    <string name="notFound">တိုက္ရိုက္သြားနိုင္ေသာကားလိုင္းမရွိပါ။ ထြက္ခြာရာၿမိဳ႕မွသြားနိုင္ေသာကားလိုင္းမ်ားအားေဖာ္ျပထားပါသည္။</string>
+    <string name="titleNotFound">တိုက္ရိုက္ကားလိုင္းမရွိပါ</string>
+    <string name="choose">Choose City</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Select City</string>
+
+</resources>
